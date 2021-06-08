@@ -1,0 +1,17 @@
+{
+  "name": "ivananreevich/otusBackendLesPackage",
+  "description": "Create my first package like student OTUS",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Ivan Mironov",
+      "email": "ivail89@mail.ru"
+    }
+  ],
+  "require": {
+    "php": ">=7.3"
+  },
+  "autoload": {
+    "classmap": ["src"]
+  }
+}
